@@ -64,6 +64,7 @@ Manage and analyze social media presence across multiple platforms.
 - [Agorapulse](https://www.agorapulse.com/) - Social media management and reporting.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpost.social/) - Self-hosted social media scheduling for humans and AI agents.
+- [igtrackr](https://igtrackr.com/) - Free Instagram follower tracking and analytics for any public account.
 
 ## Analytics
 
